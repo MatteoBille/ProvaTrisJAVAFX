@@ -162,7 +162,7 @@ public class HelloController {
                 label.setPrefSize(size, size);
                 label.setMaxSize(size, size);
                 label.relocate(0, 0);
-                label.setBackground(new Background(new BackgroundFill(Color.DARKCYAN, new CornerRadii(0), new Insets(0))));
+                label.setBackground(new Background(new BackgroundFill(Color.PINK, new CornerRadii(0), new Insets(0))));
                 label.setTextFill(Color.WHITE);
                 label.setAlignment(Pos.CENTER);
                 label.setFont(new Font("Arial", 32));
